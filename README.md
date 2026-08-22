@@ -1,2 +1,3 @@
-# Deep-Learning-with-Pytorch
-Tensors,neural networks , convolutional neural network
+
+Tensors, Artificial neural networks , convolutional neural network , Recurrent neural network ,  Transformers
+ 
