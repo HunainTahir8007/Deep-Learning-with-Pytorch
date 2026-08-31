@@ -1,3 +1,3 @@
 
-Tensors, Artificial neural networks , convolutional neural network , Recurrent neural network ,  Transformers
+Tensors, Artificial neural networks (ANN) , convolutional neural network (CNN) , Recurrent neural network (RNN) ,  Transformers
  
