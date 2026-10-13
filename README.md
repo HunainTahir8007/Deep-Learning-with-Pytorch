@@ -1,3 +1,3 @@
 
-Tensors, Artificial neural networks (ANN) , convolutional neural network (CNN) , Recurrent neural network (RNN) ,  Transformers Arctecture from scratch
+Tensors, Artificial neural networks (ANN) , convolutional neural network (CNN) , Recurrent neural network (RNN) ,  Transformers Decoder Arctecture from scratch
  
